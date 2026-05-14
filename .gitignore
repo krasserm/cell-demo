@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.env
+.venv
+sandbox.md
+blog.md
+blog.html
